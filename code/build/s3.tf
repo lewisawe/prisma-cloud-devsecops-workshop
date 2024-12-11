@@ -18,3 +18,4 @@ resource "aws_s3_bucket_ownership_controls" "dev_s3" {
     object_ownership = "BucketOwnerPreferred"
   }
 }
+# Comments
